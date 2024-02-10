@@ -1,0 +1,6 @@
+mvn clean install
+
+
+run apache tomcat
+D:\Devops\apache-tomcat-10.1.18\bin\
+startup.bat
