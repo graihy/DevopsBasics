@@ -1,4 +1,2 @@
-<h1> Hi, This Graihy, Learning devops by practice!</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
-same as here!
+<h1> Hi, This is Graihy, and this is a CI/CD in practice!</h1>
+<h2>Here we GO</h2>
